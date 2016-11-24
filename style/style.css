@@ -8,7 +8,7 @@
 }
 
 .video-item img {
- max-width: 64px;
+    max-width: 64px;
 }
 
 .video-detail .details {
@@ -23,6 +23,6 @@
 }
 
 .list-group-item:hover {
-  background-color: #eee;
+    background-color: #eee;
 }
 
